@@ -9,3 +9,7 @@ Hubot Scripts organization and give you read and write access to the fork. You
 will still be the maintainer, you'll still own the issues and pull requests. It
 will just be available under the Hubot Scripts organization for users to find
 more easily.
+
+## Contents
+
+1. [docs](docs/) A location to put docs for collaboration on getting scripts in the repo 
