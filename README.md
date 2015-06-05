@@ -1,11 +1,13 @@
 # Hubot Script Packages
 
-If you would like to have your Hubot Script Package grouped under the
-Hubot Scripts organization (so it can be found easily by others), open an issue
-on this repository with a link to your Hubot Script Package.
+**DEPRECATED**
 
-We'll review your package and if everything is in top shape we'll fork it to the
-Hubot Scripts organization and give you read and write access to the fork. You
-will still be the maintainer, you'll still own the issues and pull requests. It
-will just be available under the Hubot Scripts organization for users to find
-more easily.
+If you would like to have your Hubot Script Package grouped under the
+Hubot Scripts organization (so it can be found easily by others), this used to be the place
+to open an issue to get it added to this organization.
+
+Instead, you should keep your package on your own user or organization and publish it to [NPM](https://www.npmjs.com/)
+
+Looking for scripts? You can search NPM for scripts on the command line with:
+
+     npm search hubot-scripts <your-search-term>.
